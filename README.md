@@ -43,9 +43,10 @@ If you have comments, corrections, or suggestions, feel free to start or join a 
 
 - TODO 👀
 
-<!--
-[Unsphinxed!](https://github.com/Elliria/sphinx-til/shenanigans/unsphinxed.md) — Dynamic site-synthesis with no static source-files.
--->
-<!--
-Potential future alternative category for shenanigans if that category is disliked: Playful
--->
+-----
+
+## License
+Unless otherwise noted, all original content in this repository is licensed under the [MIT License](https://github.com/Elliria/sphinx-til/blob/master/LICENSE). Individual articles include their own licensing information so that they can be used independently of this repository.
+
+<!-- [Unsphinxed!](https://github.com/Elliria/sphinx-til/shenanigans/unsphinxed.md) — Dynamic site-synthesis with no static source-files. -->
+<!-- Potential future alternative category for shenanigans if that category is disliked: Playful -->
