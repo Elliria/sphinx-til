@@ -1,19 +1,41 @@
 # 🌎 Sphinx TIL
 
-This repository is dedicated to exploration of the **Sphinx** documentation system. It has only two categories: One is for thoroughly-researched explorations that are sensible for real-world use and the other is for pure, unadulterated fun. Perhaps you'll find the collection useful.
+## About
 
-It's also a place where you can join in. Feel free to start a [discussion](https://github.com/Elliria/sphinx-til/discussions) if you have a quirk, edge-case, pattern, or behavior that should be explored or if you have comments on, corrections for, or suggestions for, any of the existing content.
+This repository explores the Sphinx documentation system by investigating its capabilities, quirks, and possibilities. Most of the explorations use the [Sphinx Playground](https://github.com/sphinx-playground) organization's example repositories, which you're welcome to experiment with yourself.
+
+These flexible categories organize the content, with documents occasionally moving from one category to another as explorations develop and new information comes to light:
+* **Educational** — Explanations of Sphinx features and how they work.
+* **Limbo** — Explorations that don't currently fit into another category.
+* **Practical** — Explorations that produce techniques, solutions, or patterns suitable for real-world use.
+* **Shenanigans** — Playful explorations of unusual ideas, unexpected possibilities, and things that might seem impractical or downright outlandish.
+
+Sphinx immediately stole my heart as an amazing system with pretty well limitless possibilities. This little corner of the internet hopes to show others how to play with Sphinx and perhaps *also* fall in love with it.
+
+If you have comments, corrections, or suggestions, feel free to start or join a [discussion](https://github.com/Elliria/sphinx-til/discussions). 
 
 ---
 
 ## Table of Contents
 
-- [Production-Ready](https://github.com/Elliria/sphinx-til#production-ready)
-- [Shenanigans](https://github.com/Elliria/sphinx-til#shenanigans)
+* [Educational](https://github.com/Elliria/sphinx-til#educational)
+* [Limbo](https://github.com/Elliria/sphinx-til#limbo)
+* [Practical](https://github.com/Elliria/sphinx-til#practical)
+* [Shenanigans](https://github.com/Elliria/sphinx-til#shenanigans)
 
 ---
 
-### Production-ready
+## Categories
+
+### Educational
+
+- TODO 👀
+
+### Limbo
+
+- TODO 👀
+
+### Practical
 
 - TODO 👀
 
@@ -23,4 +45,9 @@ It's also a place where you can join in. Feel free to start a [discussion](https
 
 <!--
 - [Unsphinxed!](https://github.com/Elliria/sphinx-til/shenanigans/unsphinxed.md) — Dynamic site-synthesis with no static source-files.
+-->
+<!-- 
+Potential future alternative categories if the above ones don't work out:
+* Informational
+* Playful
 -->
