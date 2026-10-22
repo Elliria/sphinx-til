@@ -29,7 +29,7 @@ If you have comments, corrections, or suggestions, feel free to start or join a 
 
 ### Guides
 
-- TODO 👀
+- [Sphinx Framework Layout Comparisons](https://github.com/Elliria/sphinx-til/blob/master/articles/sphinx-framework-layout-comparisons.md) — a comprehensive comparison of Sphinx framework layouts, detailing single and split repository structures along with examples.
 
 ### Limbo
 
