@@ -4,7 +4,7 @@
 
 This repository explores the Sphinx documentation system by investigating its capabilities, quirks, and possibilities. Most of the explorations use the [Sphinx Playground](https://github.com/sphinx-playground) organization's example repositories, which you're welcome to experiment with yourself.
 
-These flexible categories organize the content, with documents occasionally moving from one category to another as explorations develop and new information comes to light:
+The following flexible categories organize the content, with documents occasionally moving from one category to another as explorations develop and new information comes to light:
 * **Guides** — Explanations of Sphinx features and how they work, through tutorials, step-by-step instructions, or overviews.
 * **Limbo** — Explorations that don't currently fit into another category.
 * **Practical** — Explorations that produce techniques, solutions, or patterns suitable for real-world use.
