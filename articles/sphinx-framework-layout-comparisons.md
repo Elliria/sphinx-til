@@ -1,7 +1,7 @@
 # Sphinx Framework Layout Comparisons
 
 ## About
-There are two repository layouts that are often used for Sphinx in projects around the world. One puts everything into one repository and the other splits Sphinx and your content between two separate repositories. The directory maps below show the basic structural differences between them.
+There are two repository layouts that are often used for Sphinx in projects around the world. One puts Sphinx and your content into one repository and the other splits Sphinx and your content between two separate repositories. The directory maps below show the basic structural differences between them.
 
 ### Single Layout
 This layout keeps the project's contents and their Sphinx framework in one repository and Sphinx references the project files internally.
